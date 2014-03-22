@@ -1,0 +1,25 @@
+{
+  "name": "broxer",
+  "version": "0.0.0",
+  "authors": [
+    "Scott Moss"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "mean",
+    "angular",
+    "express",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "broxer.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
